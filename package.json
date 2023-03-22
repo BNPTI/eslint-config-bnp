@@ -24,6 +24,10 @@
     }
   },
   "keywords": [
-    "eslint"
-  ]
+    "eslint",
+    "bnp"
+  ],
+  "repository": {
+    "url": "https://github.com/Hidekih/eslint-config-bnp"
+  }
 }
