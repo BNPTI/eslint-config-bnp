@@ -1,7 +1,6 @@
 {
   "name": "eslint-config-bnp",
-  "version": "0.0.1",
-
+  "version": "1.0.0",
   "description": "Eslint config for React projects",
   "main": "index.js",
   "license": "MIT",
